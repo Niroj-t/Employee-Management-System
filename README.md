@@ -72,15 +72,15 @@ Employee-Management-System/
 
 ## 📸 Screenshots
 
-https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141835.png?raw=true
+https://github.com/Niroj-t/Employee-Management-System/blob/da86e5be2c1940c8f3ecc3d817b48308a0f044f5/Screenshot%202026-05-18%20141835.png
 
-https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141942.png?raw=true
+https://github.com/Niroj-t/Employee-Management-System/blob/da86e5be2c1940c8f3ecc3d817b48308a0f044f5/Screenshot%202026-05-18%20141942.png
 
-https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141956.png?raw=true
+https://github.com/Niroj-t/Employee-Management-System/blob/da86e5be2c1940c8f3ecc3d817b48308a0f044f5/Screenshot%202026-05-18%20141956.png
 
-https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20142007.png?raw=true
+https://github.com/Niroj-t/Employee-Management-System/blob/da86e5be2c1940c8f3ecc3d817b48308a0f044f5/Screenshot%202026-05-18%20142007.png
 
-https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20142022.png?raw=true
+https://github.com/Niroj-t/Employee-Management-System/blob/da86e5be2c1940c8f3ecc3d817b48308a0f044f5/Screenshot%202026-05-18%20142022.png
 
 
 ---
