@@ -72,7 +72,7 @@ Employee-Management-System/
 
 ## 📸 Screenshots
 
-*Add screenshots of your application UI here*
+https://drive.google.com/file/d/1Eua-g5nHy9CxfLxuYgAlfA6mj0Fn6v0A/view?usp=sharing
 
 ---
 
