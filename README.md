@@ -72,7 +72,16 @@ Employee-Management-System/
 
 ## 📸 Screenshots
 
-https://drive.google.com/file/d/1Eua-g5nHy9CxfLxuYgAlfA6mj0Fn6v0A/view?usp=sharing
+https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141835.png?raw=true
+
+https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141942.png?raw=true
+
+https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20141956.png?raw=true
+
+https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20142007.png?raw=true
+
+https://github.com/Niroj-t/Employee-Management-System/blob/Main/Screenshot%202026-05-18%20142022.png?raw=true
+
 
 ---
 
